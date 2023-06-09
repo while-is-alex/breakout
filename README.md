@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ## Features
 
 ### Gameplay
-The game starts after the user went through the instructions screen and only after the user presses space bar is that the ball starts moving. The user starts the game with 3 lives, displayed at the top of the screen. Also displayed at the top of the screen are the current game's score and also the all-time high score. The user has to not let the ball fall past the paddle at the bottom of the screen or else they'll lose a life. The objective is to deflect the ball upwards towards the colored blocks in order to break them. Each block-color takes a different number of hits to be broken (green: 1, yellow: 2, orange: 3 and red: 4). The game pleasantly provides unique audio feedback to each ball-hits (to paddle, walls and blocks).
+The game starts after the user went through the instructions screen and only after the user presses space bar is that the ball starts moving. The user starts the game with 3 lives, displayed at the top of the screen. Also displayed at the top of the screen are the current game's score and also the all-time high score. The user has to not let the ball fall past the paddle at the bottom of the screen or else they'll lose a life. The objective is to deflect the ball upwards towards the colored blocks in order to break them. Each block-color takes a different number of hits to be broken (green: 1, yellow: 2, orange: 3 and red: 4). The game pleasantly provides unique audio feedback to each ball-hit (to paddle, walls and blocks).
 
 ![second-level.png](https://i.ibb.co/4N7XSpk/second-level.png)
 
