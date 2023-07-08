@@ -4,7 +4,7 @@ Breakout game built with Python and Turtle graphics. The objective of the game i
 ## Getting started
 1. Clone the repository:
 ```
-git clone https://github.com/while-is-alex/breakout.git
+git clone https://github.com/while-is-alex/breakout-game.git
 ```
 
 2. Change the directory to the project folder.
